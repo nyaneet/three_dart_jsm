@@ -37,6 +37,7 @@ dependencies:
     git:
       url: https://github.com/nyaneet/flutter_gl.git
       ref: 0.0.1
+      path: flutter_gl
   three_dart:
     git:
       url: https://github.com/nyaneet/three_dart.git

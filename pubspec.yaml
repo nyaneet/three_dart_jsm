@@ -13,11 +13,11 @@ dependencies:
   three_dart:
     git:
       url: https://github.com/nyaneet/three_dart.git
-      ref: 0.0.1
+      ref: 0.0.2
   flutter_gl:
     git:
       url: https://github.com/nyaneet/flutter_gl.git
-      ref: 0.0.1
+      ref: 0.0.2
       path: flutter_gl
   typr_dart: ^0.0.2
   opentype_dart: ^0.0.1

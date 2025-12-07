@@ -98,35 +98,35 @@ packages:
     dependency: "direct main"
     description:
       path: flutter_gl
-      ref: "0.0.3"
-      resolved-ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
+      ref: "0.0.4"
+      resolved-ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
       url: "https://github.com/nyaneet/flutter_gl.git"
     source: git
-    version: "0.0.1"
+    version: "0.0.4"
   flutter_gl_linux:
     dependency: transitive
     description:
       path: flutter_gl_linux
-      ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
-      resolved-ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
+      ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
+      resolved-ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
       url: "https://github.com/nyaneet/flutter_gl.git"
     source: git
-    version: "0.0.3"
+    version: "0.0.4"
   flutter_gl_macos:
     dependency: transitive
     description:
       path: flutter_gl_macos
-      ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
-      resolved-ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
+      ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
+      resolved-ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
       url: "https://github.com/nyaneet/flutter_gl.git"
     source: git
-    version: "0.0.1"
+    version: "0.0.4"
   flutter_gl_platform_interface:
     dependency: transitive
     description:
       path: flutter_gl_platform_interface
-      ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
-      resolved-ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
+      ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
+      resolved-ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
       url: "https://github.com/nyaneet/flutter_gl.git"
     source: git
     version: "0.0.4"
@@ -134,17 +134,17 @@ packages:
     dependency: transitive
     description:
       path: flutter_gl_web
-      ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
-      resolved-ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
+      ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
+      resolved-ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
       url: "https://github.com/nyaneet/flutter_gl.git"
     source: git
-    version: "0.0.1"
+    version: "0.0.4"
   flutter_gl_windows:
     dependency: transitive
     description:
       path: flutter_gl_windows
-      ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
-      resolved-ref: "7e0a989f2eb71c375d5ba2182739bb667be21fc5"
+      ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
+      resolved-ref: a4c13b0ebe3d6490cd5fde73001fb7186dfca21c
       url: "https://github.com/nyaneet/flutter_gl.git"
     source: git
     version: "0.0.1"
@@ -344,7 +344,7 @@ packages:
     description:
       path: "."
       ref: "0.0.4"
-      resolved-ref: "4a1f0652d85b8ccc6b8518a0bfaad4c9ab4a9491"
+      resolved-ref: "34fbca59a7c4f685f4be8db727016ba2672ff861"
       url: "https://github.com/nyaneet/three_dart.git"
     source: git
     version: "0.0.4"

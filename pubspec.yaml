@@ -13,7 +13,7 @@ dependencies:
   three_dart:
     git:
       url: https://github.com/nyaneet/three_dart.git
-      ref: 0.0.3
+      ref: 0.0.4
   flutter_gl:
     git:
       url: https://github.com/nyaneet/flutter_gl.git
@@ -22,13 +22,13 @@ dependencies:
   typr_dart: ^0.0.2
   opentype_dart: ^0.0.1
   universal_html: ^2.0.8
-  image: ^3.1.1
-  archive: ^3.3.0
+  image: ^4.5.4
+  archive: ^4.0.7
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  lints: ^2.0.0
+  lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
